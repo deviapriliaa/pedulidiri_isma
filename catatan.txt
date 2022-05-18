@@ -1,0 +1,16 @@
+ID_CATATAN|NIK|NAMA_LENGKAP|TANGGALJAM|LOKASI|SUHU
+85232|5648|ambar|2022-05-14|18:46|Jalan Surabaya|35 celcius
+47041|5648|ambar|2022-05-13|20:17|Singosari|32 celcius
+29879|5648|ambar|2022-05-31|21:20|Universitas Brawijaya|36.05
+
+
+
+63193|2004|isma syafira|2022-04-30|14:15|Universitas Brawijaya |36,5 celcius
+63193|2004|isma syafira|2022-04-05|20:21|Politeknik Negeri Malang|36 celcius
+
+11850|5678|isma|2022-04-30|13:00|seoul|36,5 Celcius
+
+31825|5678|isma|2022-05-20|15:00|Universitas Brawijaya|35,26 celcius
+
+48496|5802|gimbul|2022-05-17|06:06|smkn 12 malang|33.0 Celcius
+56869|5802|gimbul|2022-07-07|12:03|seoul|35,26 celcius
